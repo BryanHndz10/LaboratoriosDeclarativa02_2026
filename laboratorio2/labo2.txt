@@ -1,0 +1,11 @@
+ACTIVIDAD: Encuentre el sujero y el predicado de las siguientes
+oraciones y conviértalas a su versión en lógica simbólica.
+
+1) "Si la información no es completa para oferentes y demandantes,
+
+hay una falla de mercado".
+
+
+2) "He pasado todas mis vacaciones en Grecia y Marruecos."
+
+3) "La realidad supera a la ficción y él no puede creerlo."

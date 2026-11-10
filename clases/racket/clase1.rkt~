@@ -1,0 +1,4 @@
+#lang racket
+(define (long_circunferencia r)
+  (* 2 (* r pi))
+)
